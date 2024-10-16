@@ -13,16 +13,8 @@ Education
 ======
 * PhD in Computer Science, National University of Singapore (Aug 2024 - present)
 * BSc (Highest Distinction) in Data Science and Analytics, Economics (second major), National University of Singapore (Aug 2024 - present)
-
-
-Experience
-------
-* A*STAR Graduate Research Assistant
-* NUS, Undergraduate Research Assistant
-* DBS Bank, Machine Learning Intern
-* Land Transport Authority of Singapore, Machine Learning Intern,
   
-Work experience
+Experience
 ======
 * Graduate Research Assistant @ A*STAR, Fall 2024 - Present
 * Undergraduate Research Assistant @ NUS, Fall 2023
