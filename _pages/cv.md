@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science, National University of Singapore (Aug 2024 - present)
-* BSc (Highest Distinction) in Data Science and Analytics, Economics (second major), National University of Singapore (Aug 2024 - present)
+* BSc (Highest Distinction) in Data Science and Analytics, Economics (second major), National University of Singapore (Aug 2020 - May 2024)
   
 Experience
 ======
