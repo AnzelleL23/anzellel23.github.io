@@ -9,15 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
-======
+## Education
 WIP
 
-### Work Experience
-======
+## Work Experience
 WIP
   
-### Skills
-======
+## Skills
 WIP
   
