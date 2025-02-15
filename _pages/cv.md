@@ -10,11 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+
 WIP
 
 ## Work Experience
+
 WIP
   
 ## Skills
+
 WIP
   
