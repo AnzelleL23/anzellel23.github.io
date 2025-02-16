@@ -17,5 +17,5 @@ Outside of academia, I enjoy going to the gym and scuba diving.
 
 Feel free to reach out via the links on the left for collaborations or discussions!
 
-PS: If you are viewing this on your mobile device and the navigation menu is not working, simply rotate it!
+PS: If you are viewing this on your mobile device and the navigation menu is not working, simply rotate your device!
 
